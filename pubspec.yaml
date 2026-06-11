@@ -1,6 +1,6 @@
 name: github_contributions_grid
 description: "Flutter package for fetching and visualizing your Github profile's contribution graph."
-version: 0.0.1
+version: 0.0.1+2
 homepage: https://github.com/carlxxsinenomine/github_contributions_grid
 
 environment:
