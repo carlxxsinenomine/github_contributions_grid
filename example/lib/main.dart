@@ -49,7 +49,7 @@ class MyHomePage extends StatelessWidget {
             ),
             const SizedBox(height: 40),
             const Text(
-              'Custom Red Theme (like the portfolio app):',
+              'Custom Red Theme:',
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 10),

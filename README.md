@@ -64,7 +64,8 @@ GitHubContributionsGrid(
   monthLabelHeight: 16.0,
 )
 ```
-
+![img.png](assets/img.png)
+![img.png](assets/green.png)
 ## Additional information
 
 This package uses the free [github-contributions-api.jogruber.de](https://github-contributions-api.jogruber.de) API to fetch contribution data without needing any authentication or CORS workarounds for Flutter Web.
