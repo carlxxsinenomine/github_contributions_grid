@@ -15,7 +15,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  github_contributions_grid: ^1.0.0
+  github_contributions_grid: ^0.0.1+2
 ```
 
 ## Usage
